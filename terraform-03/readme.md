@@ -1,5 +1,7 @@
 # Задача 1
-![Alt text](images/группа безопасности.png)
+![Alt text](/images/task-1-1.png)
+![Alt text](/images/task-1-2.png)
+
 
 
 # Задача 2
