@@ -1,12 +1,10 @@
 # Задача 1
-![Alt text](/images/task-1-1.png)
-![Alt text](/images/task-1-2.png)
-
+![Alt text](images/task1.png)
 
 
 # Задача 2
-![4 созданные машины](https://github.com/user-attachments/assets/01d905e9-13e5-41ea-8913-9ed57d6720b0)
-![группа безопасности](https://github.com/user-attachments/assets/76a29d51-f449-400a-ac4e-012e0a9baa79)
+![Alt text](images/task2-1.png)
+![Alt text](images/task2-2.png)
 Группа безопасности применена.
 
 [count-vm.tf](count-vm.tf)
