@@ -1,0 +1,18 @@
+cloud_id  = ""
+folder_id = ""
+each_vm=[
+    {
+        vm_name = "main"
+        cpu = 4
+        ram = 2
+        disk= 20
+    },
+    {
+        vm_name = "replica"
+        cpu = 2
+        ram = 1
+        disk= 10
+    }
+]
+
+vms_ssh_root_key = ""
