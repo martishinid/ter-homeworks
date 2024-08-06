@@ -27,7 +27,7 @@ variable "default_cidr" {
 
 variable "vpc_name" {
   type        = string
-  default     = "develop"
+  default     = "develop03"
   description = "VPC network&subnet name"
 }
 
