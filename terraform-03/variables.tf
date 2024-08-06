@@ -43,7 +43,7 @@ variable "each_vm" {
 }
 
 ###ssh vars
-variable "vms_ssh_root_key" {
+/*variable "vms_ssh_root_key" {
   type        = string
   description = "ssh-keygen -t ed25519"
-}
+}*/
