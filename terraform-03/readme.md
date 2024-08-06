@@ -1,5 +1,5 @@
 # Задача 1
-![image](https://github.com/user-attachments/assets/a77852a6-100c-4778-b2fa-6b61149d76c6)
+![Alt text](images/группа безопасности.png)
 
 
 # Задача 2
